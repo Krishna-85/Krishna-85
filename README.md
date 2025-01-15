@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-85&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-85" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-85" alt="krishna-85" /></a> </p>
-
+ 
+ 
 - 🌱 I’m currently learning **Frameworks, App devlopement**
 
 - 👨‍💻 All of my projects are available at [netlify.com](netlify.com)
