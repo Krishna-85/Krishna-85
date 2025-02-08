@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vaibhavchauhan658@gmail.com**
 
-- ⚡ Fun fact **I**
+- ⚡ Fun fact **I'm only 16 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
