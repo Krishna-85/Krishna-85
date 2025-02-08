@@ -15,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/krishna_85__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna_85__" height="30" width="40" /></a>
+ https://www.linkedin.com/in/vaibhav-chauhan-608627340/
 <a href="[https://www.youtube.com/c/a2x explain](https://www.youtube.com/channel/UCO6UON1OSGDqHvtxd1q4Y_g)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a2x explain" height="30" width="40" /></a>
 </p>
 
