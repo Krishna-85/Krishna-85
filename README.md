@@ -39,7 +39,6 @@ _Passionate coder, innovative thinker, and tech enthusiast on a mission to creat
 ## 💫 About Me
 
 - 🔭 Currently working on cutting-edge web and machine learning projects
-- 🌱 Deep diving into Machine Learning & Cloud Technologies
 - 👯 Eager to collaborate on innovative Open Source Projects
 - 💬 Expert in Web Development, JavaScript, React
 - 📫 Reach me at: **vaibhavchauhan@gmail.com**
