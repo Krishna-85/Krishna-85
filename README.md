@@ -1,27 +1,64 @@
-<h1 align="center">Hi 👋, I'm Vaibhav chauhan</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
- 
- 
-- 🌱 I’m currently learning **Frameworks, App devlopement**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&text=Hy%20I'm%20Vaibhav%20Chauhan&fontColor=ffffff&fontAlignY=35&desc=&descSize=60&descAlign=65&descAlignY=55&animation=fadeIn" width="100%" />
+</div>
 
-- 👨‍💻 All of my projects are available at [netlify.com](netlify.com)
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />
+  Hello, Fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
+</h1>
 
-- 💬 Ask me about **MERN**
+## 🚀 MERN Stack Developer
 
-- 📫 How to reach me **vaibhavchauhan658@gmail.com**
+_Passionate coder, innovative thinker, and tech enthusiast on a mission to create impactful digital solutions_
 
-- ⚡ Fun fact **I'm only 16 years old**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/krishna_85__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna_85__" height="30" width="40" /></a>
- <a href="[https://www.youtube.com/c/a2x explain](https://www.youtube.com/channel/UCO6UON1OSGDqHvtxd1q4Y_g)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a2x explain" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Krishna-85?tab=followers">
+    <img src="https://img.shields.io/github/followers/Krishna-85?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Krishna-85&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+  <a href="https://github.com/Krishna-85">
+    <img src="https://img.shields.io/github/stars/Krishna-85?style=social" alt="GitHub Stars" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-85&show_icons=true&locale=en&layout=compact" alt="krishna-85" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishna-85&show_icons=true&count_private=true&hide_border=true&title_color=00AEFF&icon_color=2ECC71&text_color=FFFFFF&bg_color=0D1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-85&layout=compact&hide_border=true&title_color=00AEFF&text_color=FFFFFF&bg_color=0D1117" height="170" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-85&show_icons=true&locale=en" alt="krishna-85" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Krishna-85&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat&date_format=j%20M%5B%20Y%5D" height="220" alt="GitHub Streak" />
+</div>
 
+## 💫 About Me
+
+- 🔭 Currently working on cutting-edge web and machine learning projects
+- 🌱 Deep diving into Machine Learning & Cloud Technologies
+- 👯 Eager to collaborate on innovative Open Source Projects
+- 💬 Expert in Web Development, JavaScript, React
+- 📫 Reach me at: **vaibhavchauhan@gmail.com**
+- ⚡ Fun fact: Turning coffee and music into code, one line at a time! 💻☕
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://instagram.com/krishna_85__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:vaibhavchauhan658@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaibhav-chauhan-608627340/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</div>
