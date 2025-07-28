@@ -41,7 +41,7 @@ _Passionate coder, innovative thinker, and tech enthusiast on a mission to creat
 - 🔭 Currently working on cutting-edge web and machine learning projects
 - 👯 Eager to collaborate on innovative Open Source Projects
 - 💬 Expert in Web Development, JavaScript, React
-- 📫 Reach me at: **vaibhavchauhan@gmail.com**
+- 📫 Reach me at: **vaibhavchauhan658@gmail.com**
 - ⚡ Fun fact: Turning coffee and music into code, one line at a time! 💻☕
 
 ## 📫 Connect With Me
