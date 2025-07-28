@@ -38,9 +38,9 @@ _Passionate coder, innovative thinker, and tech enthusiast on a mission to creat
 
 ## 💫 About Me
 
-- 🔭 Currently working on cutting-edge web and machine learning projects
+- 🔭 Currently working on cutting-edge web and app development.
 - 👯 Eager to collaborate on innovative Open Source Projects
-- 💬 Expert in Web Development, JavaScript, React
+- 💬 Expert in Web Development, JavaScript, React, MongoDB , Express , Node.js.
 - 📫 Reach me at: **vaibhavchauhan658@gmail.com**
 - ⚡ Fun fact: Turning coffee and music into code, one line at a time! 💻☕
 
